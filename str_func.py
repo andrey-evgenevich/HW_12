@@ -4,3 +4,10 @@ def main():
     """
     st = input()
     print(st.upper())
+
+def main2():
+    """
+    Функция делает заглавными первые буквы каждого слова в строке
+    """
+    st = input()
+    print(st.title())
